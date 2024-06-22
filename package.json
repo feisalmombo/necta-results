@@ -1,0 +1,17 @@
+{
+  "name": "necta-results",
+  "version": "1.0.0",
+  "description": "This is a simple project for JavaScript which returns a results of NECTA results for Form 4 2023 on the form of an array of objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Feisal Suleiman Mombo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1"
+  }
+}
