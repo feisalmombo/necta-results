@@ -12,8 +12,9 @@ This is a simple project for JavaScript which returns a results of NECTA results
 
 ## Running the Project
 1.	Start the Backend Server:
-    node server.js
+    - node server.js
 
-2.	Open the HTML File in a Browser: Open index.html in your web browser.
+2.	Open the HTML File in a Browser: 
+    - Open index.html in your web browser.
 
 
