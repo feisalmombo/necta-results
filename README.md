@@ -17,4 +17,7 @@ This is a simple project for JavaScript which returns a results of NECTA results
 2.	Open the HTML File in a Browser: 
     - Open index.html in your web browser.
 
+## Results after using Postman
+![alt text](<necta-results endpoints on postman.png>)
+
 
